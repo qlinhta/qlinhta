@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @qlinhta
+- 👀 I’m interested in Machine Learning, Data Sciences and ... =)) 
+- 🌱 I’m currently learning Computer Science Applied in Business Management
+- 📫 Want to reach me? Send me a mail, i gonna reply as soon as.
