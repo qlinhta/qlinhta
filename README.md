@@ -3,4 +3,4 @@
 
 Snake snake snake!!!
 
-![snake gif](https://github.com/qlinhta/qlinhta/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/qlinhta/qlinhta/blob/output/github-contribution-grid-snake.svg)
