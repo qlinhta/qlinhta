@@ -5,6 +5,3 @@
 
 
 ![snake gif](https://github.com/qlinhta/qlinhta/blob/output/github-contribution-grid-snake.svg)
-  
-  
-![Github Activity Graph](https://tranquil-channel-islands-18542.herokuapp.com/graph?username=qlinhta&theme=gotham)
