@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @qlinhta
-- 👀 I’m interested in Machine Learning, Graph Algorithms and Complexity Theory
-- 🌱 I’m currently learning MSc. Applied Computer Science at University Paris Dauphine
-- 📫 How to reach me? quyen-linh.ta@dauphine.eu / qlinhta@outlook.com
